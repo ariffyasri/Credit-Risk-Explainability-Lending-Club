@@ -18,3 +18,8 @@ Provide transparency and levels of explainability as per user requirements using
 
 - Joslyn Lim
 - Ariff Yasri
+
+Credit
+
+- https://www.kaggle.com/wordsforthewise/lending-club
+- https://www.kaggle.com/wendykan/lending-club-loan-data

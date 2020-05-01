@@ -1,4 +1,4 @@
-# Credit-Risk-Explainability-Lending-Club
+# Credit Risk Explainability Lending Club
 
 Demystify credit risk model, facilitate its usage for decision making at all level of stakeholders & cultivate credibility of AI in industry
 
@@ -19,7 +19,7 @@ Provide transparency and levels of explainability as per user requirements using
 - Joslyn Lim
 - Ariff Yasri
 
-Credit
+# Credit
 
 - https://www.kaggle.com/wordsforthewise/lending-club
 - https://www.kaggle.com/wendykan/lending-club-loan-data

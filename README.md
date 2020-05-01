@@ -1,8 +1,6 @@
 # Credit-Risk-Explainability-Lending-Club
 
-```
 Demystify credit risk model, facilitate its usage for decision making at all level of stakeholders & cultivate credibility of AI in industry
-```
 
 # Issue
 
